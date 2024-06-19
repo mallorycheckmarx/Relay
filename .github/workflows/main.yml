@@ -19,3 +19,4 @@ jobs:
           cx_client_secret: ${{ secrets.CX_CLIENT_SECRET }}
           # additional_params: --apikey ${{ secrets.CX_APIKEY_PROD }} --report-format sarif --output-path .
           additional_params: --report-format sarif --output-path .
+          
